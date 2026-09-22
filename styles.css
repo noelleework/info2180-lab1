@@ -1,0 +1,33 @@
+h1 {
+    color:#44CCAC;
+    font-size: 26px;
+
+}
+
+h2{
+    color: #6060DD ;
+    font-size: 21px;
+}
+
+p{
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+body{
+    margin: 20px;
+    padding: 20px;
+    background-color: #e5f9ff;
+    line-height: 1.6;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+img {
+    width: 300px;
+    height: auto;
+    margin: 20px auto;
+    display: block
+    ;
+}
